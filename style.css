@@ -266,6 +266,17 @@ section{
     text-align:center;
 }
 
+.contact .about-text a{
+    color: #bfb7b7;      /* غيري اللون إذا تبين */
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.contact .about-text a:hover{
+    color: #3B82F6;      /* لون عند مرور الماوس */
+}
+
 footer{
     padding:25px;
     text-align:center;
