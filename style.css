@@ -266,15 +266,19 @@ section{
     text-align:center;
 }
 
+.contact .about-text{
+    text-align: center;
+}
+
 .contact .about-text a{
-    color: #bfb7b7;      /* غيري اللون إذا تبين */
+    color: #d6d6d6;
     text-decoration: none;
     font-weight: 600;
     transition: 0.3s;
 }
 
 .contact .about-text a:hover{
-    color: #3B82F6;      /* لون عند مرور الماوس */
+    color: #2EA8FF;
 }
 
 footer{
